@@ -47,6 +47,15 @@
 
 ###
 
+<div align="center">
+  <a href="https://github.com/Angelo-dev-op/tiktok-live-minecraft">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelo-dev-op&repo=tiktok-live-minecraft&theme=tokyonight&show_owner=true" alt="TikTok Live Minecraft" />
+  </a>
+  <p><em>🤖 Integração em Python para gerar blocos no Minecraft em tempo real quando mandam presentes (como rosas) nas lives do TikTok!</em></p>
+</div>
+
+###
+
 <h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
 ###
