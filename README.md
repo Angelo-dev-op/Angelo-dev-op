@@ -36,6 +36,17 @@
 
 ###
 
+<div align="center">
+  <h3>🚀 O que estou construindo agora</h3>
+  <p>Desenvolvendo aplicações web responsivas e aprimorando minhas habilidades em Front-End.</p>
+  
+  <a href="https://github.com/Angelo-dev-op/Site-KAdesentupidora">
+    <img src="https://img.shields.io/badge/Projeto-KA_Desentupidora-blue?style=flat-square&logo=github" alt="Projeto KA Desentupidora" />
+  </a>
+</div>
+
+###
+
 <h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
 ###
